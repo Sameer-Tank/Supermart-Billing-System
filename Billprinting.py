@@ -9,8 +9,10 @@ while True:
         repet=input("Do you want to add more items?(Yes/No)")
         if repet=="no:" or repet=="no":
             break
+    print("----------------------------")
     print("Name",Name)
     print("Amount to be paid",total)
+    print("----------------------------")
     print("***** Happy Shopping *****")
     print("***** Visit Us Again *****")
     repet1=input("Do you want to go to next customer?(Yes/No)")
