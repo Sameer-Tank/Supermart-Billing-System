@@ -15,6 +15,6 @@ while True:
     print("----------------------------")
     print("***** Happy Shopping *****")
     print("***** Visit Us Again *****")
-    repet1=input("Do you want to go to next customer?(Yes/No)")
-    if repet1=="no" or repet1=="No":
+    nextcoutomer=input("Do you want to go to next customer?(Yes/No)")
+    if nextcustomer=="no" or repet1=="No":
         break
